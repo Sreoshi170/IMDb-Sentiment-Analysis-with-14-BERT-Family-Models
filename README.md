@@ -364,9 +364,3 @@ git status
 - [Hugging Face sequence-classification guide](https://huggingface.co/docs/transformers/tasks/sequence_classification)
 - [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/abs/2003.10555)
 - [Streamlit documentation](https://docs.streamlit.io/)
-
-## Author
-
-Developed by **[Sreoshi Bhowmik](https://github.com/Sreoshi170)**.
-
-If this repository helps you understand Transformer-based sentiment analysis, consider giving it a star.
